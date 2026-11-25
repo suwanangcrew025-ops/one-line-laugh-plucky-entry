@@ -1,6 +1,6 @@
 [![make.fun](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
-[![rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/suwanangcrew025-ops/one-line-laugh-entry/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
-[![reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/suwanangcrew025-ops/one-line-laugh-entry/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/suwanangcrew025-ops/one-line-laugh-plucky-entry/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/suwanangcrew025-ops/one-line-laugh-plucky-entry/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 
 # One Line, One Laugh
 
